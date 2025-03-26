@@ -4,6 +4,6 @@
     "author_name": "Pazoff",
     "tags": "Kokoro,Speech,Voice",
     "plugin_url": "https://github.com/pazoff/Kokoro-Cat",
-    "thumb": "kokoro-logo.png",
+    "thumb": "https://raw.githubusercontent.com/pazoff/Kokoro-Cat/refs/heads/main/kokoro-logo.png",
     "version": "0.0.1"
 }
