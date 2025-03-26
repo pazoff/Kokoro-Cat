@@ -1,0 +1,9 @@
+{
+    "name": "Kokoro Cat",
+    "description": "Makes possible the cat to be able to speak using offline Kokoro engine TTS.",
+    "author_name": "Pazoff",
+    "tags": "Kokoro,Speech,Voice",
+    "plugin_url": "https://github.com/pazoff/Kokoro-Cat",
+    "thumb": "kokoro-logo.png",
+    "version": "0.0.1"
+}
